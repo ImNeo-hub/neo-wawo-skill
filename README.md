@@ -101,4 +101,4 @@ wawo 的初稿可以交给 [neo-write-skill](https://github.com/ImNeo-hub/neo-wr
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) © 2026 Neo
