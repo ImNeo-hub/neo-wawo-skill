@@ -56,9 +56,10 @@ wawo 的初稿可以交给 [neo-write-skill](https://github.com/ImNeo-hub/neo-wr
    ```bash
    git clone https://github.com/ImNeo-hub/neo-wawo-skill.git
    ```
-2. 软链到 Claude Code skills 目录：
+2. 软链到 skills 目录（Claude Code 和 Codex 都支持）：
    ```bash
    ln -s /path/to/neo-wawo-skill ~/.claude/skills/neo-wawo-skill
+   ln -s /path/to/neo-wawo-skill ~/.codex/skills/neo-wawo-skill
    ```
 3. 创建私有目录（存放你的个人内容，不会进仓库）：
    ```bash
