@@ -1,0 +1,17 @@
+# ───────────────────────────────────────────────
+# 个人内容：绝不入库（隐私红线）
+# 真实内容（选题库/成品/草稿/私有配置）都在仓库外的私有目录，
+# memory/ 里只是软链。这里把软链本身也忽略，确保私人数据永不进入公开仓库。
+# 公开仓库只保留引擎 + 模板（*.template.md）。
+# （注：本仓库当前尚未 git init；待用户决定开源时再 init，这份 .gitignore 即刻生效。）
+# ───────────────────────────────────────────────
+memory/private-config.md
+memory/topics.md
+memory/drafts
+memory/written
+memory/cards
+memory/wawo-state.md
+
+# 系统杂物
+.DS_Store
+Thumbs.db
